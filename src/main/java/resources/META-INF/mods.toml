@@ -1,0 +1,27 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="oldcraftallow"
+version="1.0.0"
+displayName="oldcraftallow"
+displayURL="https://modrinth.com/project/oldcraftallow"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+authors="KuYu1013"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.oldcraftallow]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration
