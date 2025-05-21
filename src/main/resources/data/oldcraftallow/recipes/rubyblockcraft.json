@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "oldcraftallow:ruby"
+    },
+    "1": {
+      "item": "oldcraftallow:ruby"
+    },
+    "2": {
+      "item": "oldcraftallow:ruby"
+    },
+    "3": {
+      "item": "oldcraftallow:ruby"
+    },
+    "4": {
+      "item": "oldcraftallow:ruby"
+    },
+    "5": {
+      "item": "oldcraftallow:ruby"
+    },
+    "6": {
+      "item": "oldcraftallow:ruby"
+    },
+    "7": {
+      "item": "oldcraftallow:ruby"
+    },
+    "8": {
+      "item": "oldcraftallow:ruby"
+    }
+  },
+  "result": {
+    "item": "oldcraftallow:rubyblock",
+    "count": 1
+  }
+}

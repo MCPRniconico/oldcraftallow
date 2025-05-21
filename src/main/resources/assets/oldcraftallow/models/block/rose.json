@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "oldcraftallow:block/r",
+    "particle": "oldcraftallow:block/r"
+  },
+  "render_type": "cutout"
+}

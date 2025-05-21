@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "package": "olditemallow.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "mixins.oldcraftallow.refmap.json",
+  "mixins": [],
+  "client": [],
+  "minVersion": "0.8"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "oldcraftallow:block/soil",
+    "up": "oldcraftallow:block/soil",
+    "north": "oldcraftallow:block/soil",
+    "east": "oldcraftallow:block/soil",
+    "south": "oldcraftallow:block/soil",
+    "west": "oldcraftallow:block/soil",
+    "particle": "oldcraftallow:block/soil"
+  },
+  "render_type": "solid"
+}

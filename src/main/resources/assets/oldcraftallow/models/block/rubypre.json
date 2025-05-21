@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "oldcraftallow:block/emerald_ore",
+    "up": "oldcraftallow:block/emerald_ore",
+    "north": "oldcraftallow:block/emerald_ore",
+    "east": "oldcraftallow:block/emerald_ore",
+    "south": "oldcraftallow:block/emerald_ore",
+    "west": "oldcraftallow:block/emerald_ore",
+    "particle": "oldcraftallow:block/emerald_ore"
+  },
+  "render_type": "solid"
+}
