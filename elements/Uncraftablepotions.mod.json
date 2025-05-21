@@ -1,0 +1,11 @@
+{
+  "_fv": 47,
+  "_type": "potion",
+  "definition": {
+    "potionName": "Potion of Uncraftablepotions",
+    "splashName": "Splash Potion of Uncraftablepotions",
+    "lingeringName": "Lingering Potion of Uncraftablepotions",
+    "arrowName": "Arrow of Uncraftablepotions",
+    "effects": []
+  }
+}
